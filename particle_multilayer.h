@@ -19,7 +19,7 @@ long unsigned int terminate_int = ULONG_MAX;
 
   pl  - Pointer to each list of particles
   pn  - array of each particle list length
-  pna - Not sure
+  pna - utility array for appending particles
 
 */
 
